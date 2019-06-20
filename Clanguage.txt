@@ -1,0 +1,4 @@
+This is list of what I have learned in C language.
+*Basics of C language like basic structure of C program.
+*Data Types.
+*Formatted I/O.
