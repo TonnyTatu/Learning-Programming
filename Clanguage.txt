@@ -10,3 +10,6 @@ Adding more topics that I learned.
 * Functions, Structure/Union.
 * File handling.
 * Pointers.
+
+More about functions.
+* Passing values to function like Array, pointers, etc,.
