@@ -5,4 +5,8 @@ This is list of what I have learned in C language.
 
 Adding more topics that I learned.
 * Decision Making.
-* Loops
+* Loops (For, While, Do/While)
+* Arrays, Character Arrays and, 2D Arrays.
+* Functions, Structure/Union.
+* File handling.
+* Pointers.
