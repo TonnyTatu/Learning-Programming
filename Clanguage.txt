@@ -1,4 +1,8 @@
 This is list of what I have learned in C language.
-*Basics of C language like basic structure of C program.
-*Data Types.
-*Formatted I/O.
+* Basics of C language like basic structure of C program.
+* Data Types.
+* Formatted I/O.
+
+Adding more topics that I learned.
+* Decision Making.
+* Loops
